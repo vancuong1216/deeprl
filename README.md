@@ -16,3 +16,4 @@ the Principle of Maximum Causal Entropy
 of Physics-Based Character Skills
 5. Variational Discriminator Bottleneck: Improving Imitation Learning, Inverse RL, and GANs by Constraining Information Flow
 6. One-Shot High-Fidelity Imitation: Training Large-Scale Deep Nets with RL
+https://www.cs.utexas.edu/~pstone/Courses/394Rfall19/resources/index.html
